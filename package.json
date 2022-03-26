@@ -1,0 +1,27 @@
+{
+  "name": "testcopilot",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "express-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soda92/testcopilot.git"
+  },
+  "keywords": [
+    "test",
+    "copilot"
+  ],
+  "author": "SodaCris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soda92/testcopilot/issues"
+  },
+  "homepage": "https://github.com/soda92/testcopilot#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "expresss": "^0.0.0"
+  }
+}
